@@ -1,6 +1,7 @@
-import './assets/main.css'
-
-import { createApp } from 'vue'
-import App from './App.vue'
-
-createApp(App).mount('#app')
+//import './assets/main.css'
+//new Vue()创建一个应用实例对象
+import { createApp } from "vue";
+import App from "./App.vue";
+//1、以App作为参数生成一个应用实例对象
+//2、挂载到id位app的节点上
+createApp(App).mount("#app");

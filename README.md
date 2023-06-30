@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+npm i  --registry=http://registry.npm.taobao.org
